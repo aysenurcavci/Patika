@@ -1,4 +1,4 @@
-<h1 align="center">MergeSortProject</h1>
+<h1 align="center">Merge Sort Project</h1>
 
 [16,21,11,8,12,22] dizisinin merge sort türüne göre aşamaları 
 

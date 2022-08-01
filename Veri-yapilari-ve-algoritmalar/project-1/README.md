@@ -1,4 +1,4 @@
-<h1 align="center">InsertionSortProject</h1>
+<h1 align="center">Insertion Sort Project</h1>
 
 
 [22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları 
