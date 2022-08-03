@@ -1,0 +1,19 @@
+body{
+    font-family: "Times New Roman";
+}
+
+h1 {
+    font-size: 40px;
+    color:#064420;
+  }
+  
+h2 {
+    font-size: 30px;
+  }
+p {
+    font-style: italic;
+  }
+
+div{
+    background-color: orange;
+  }
