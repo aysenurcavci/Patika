@@ -38,7 +38,10 @@ input.searche::placeholder {
 }
 
 button.mediatext {
-  color: #5f5f5f;
+  color: #ffffff;
+  border: none;
+  background-color: white;
+  padding: 10px 15px;
 }
 
 button.mediatext:hover {
@@ -47,9 +50,10 @@ button.mediatext:hover {
 
 .mediatext {
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 200;
   font-family: Arial, Helvetica, sans-serif;
   color: #5f5f5f;
+  padding-left: 5px;
 }
 
 i {
@@ -64,15 +68,15 @@ i:hover {
 input.content {
   border-radius: 40px;
   height: 45px;
+  width: 462px;
+  margin: 5px;
 }
 
 input.content::placeholder {
-  font-weight: bolder;
+  font-weight: 300;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(../assets/edit-regular.svg);
-  background-repeat: no-repeat;
-  background-size: auto;
+  padding-left: 5px;
 }
 
 div.card {
@@ -112,14 +116,20 @@ li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: #5f5f5f;
+  margin: 10px;
 }
 
 button.ref {
   color: white;
+  border: none;
+  background-color: white;
+  padding: 10px 15px ;
+  
 }
 
 button.ref:hover {
-  color: #5f5f5f;
+  background-color: #e6e6e6;
+  border-radius: 10px;
 }
 
 .postphoto {
@@ -133,5 +143,13 @@ button.ref:hover {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   font-size: 14px;
-  margin-left: 8px;
+}
+
+.follow-button{
+  border-radius: 50px;
+  box-shadow: inset 0 0 0 1px grey;
+  background-color: white;
+  border: none;
+  margin: 5px;
+  padding: 3px 12px;
 }
